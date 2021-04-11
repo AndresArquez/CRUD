@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(238, 238, 238);
+    text-emphasis: justify;
+    margin: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+
+
+#div1 {
+    width: 90%;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 0px solid;
+    background-color: white;
+    border-radius: 25px;
+    }
+
+#div2 {
+    width: 90%;
+    Margin: 0 auto;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 0px solid #fc7323;
+    background-color: #fc7323;
+    }
+
+#div3 {
+    background-color: white;
+    font-size: 21px;
+    padding: 5;
+    border-width: thin;
+    border: 1px;
+    text-align: center;
+    }
+
+.lgris {
+    color: rgb(0, 0, 0);
+    }
+
+.btn1 {
+    background-color: white;
+    color: rgb(110, 89, 89);
+    font-size: 15px;
+    font-weight: bold;
+    width: 40%;
+    }
+
+#divconsulta {
+    width: 150%;
+    padding: 50px;
+    border-style: solid;
+    border-width: thin;
+    border: 0px solid;
+    border-radius: 25px;
+    background-color: rgb(255, 255, 255);
+    }
+
+#divconsulta2 {
+    background-color: white;
+    padding: 5;
+    border-width: thin;
+    border: 1px solid white;
+    }
+    
+.imgmin{
+    padding: 10px;
+    margin: 50px; 
+    float: right;
+    width: 300px; 
+    }
